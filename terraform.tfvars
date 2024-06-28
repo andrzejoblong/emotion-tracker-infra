@@ -1,0 +1,8 @@
+aws_region     = "us-east-1"
+vpc_cidr       = "10.0.0.0/16"
+db_username    = "admin"
+db_password    = "password"
+repository_name = "emotion-tracker-backend"
+cluster_name   = "emotion-tracker-cluster"
+bucket_name    = "emotion-tracker-bucket"
+app_name       = "emotion-tracker"
